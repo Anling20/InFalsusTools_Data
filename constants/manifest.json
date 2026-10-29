@@ -1,0 +1,7 @@
+{
+  "default": "vanilla.json",
+  "files": [
+    "vanilla.json",
+    "experimental.json"
+  ]
+}
