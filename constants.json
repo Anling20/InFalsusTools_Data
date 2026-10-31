@@ -255,7 +255,7 @@
     "minimal": 3.0,
     "evolved": 6.0,
     "ultimate": 9.1,
-    "forbidden": 12.6
+    "forbidden": 12.7
   },
   "46": {
     "minimal": 3.0,
@@ -303,12 +303,12 @@
     "minimal": 3.0,
     "evolved": 6.0,
     "ultimate": 10.2,
-    "forbidden": 13.0
+    "forbidden": 12.9
   },
   "54": {
     "minimal": 6.0,
     "evolved": 10.0,
-    "ultimate": 12.9,
+    "ultimate": 12.8,
     "forbidden": 15.0
   },
   "55": {
